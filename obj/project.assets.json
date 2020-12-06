@@ -88,9 +88,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ganesh\\Desktop\\DockerSample\\DockerSample.csproj",
-      "projectName": "DockerSample",
-      "projectPath": "C:\\Users\\Ganesh\\Desktop\\DockerSample\\DockerSample.csproj",
+      "projectUniqueName": "C:\\Users\\Ganesh\\Desktop\\DockerSample\\Dockersampleconfig.csproj",
+      "projectName": "Dockersampleconfig",
+      "projectPath": "C:\\Users\\Ganesh\\Desktop\\DockerSample\\Dockersampleconfig.csproj",
       "packagesPath": "C:\\Users\\Ganesh\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Ganesh\\Desktop\\DockerSample\\obj\\",
       "projectStyle": "PackageReference",

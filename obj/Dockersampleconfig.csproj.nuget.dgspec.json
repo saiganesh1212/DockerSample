@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ganesh\\Desktop\\DockerSample\\Dockersample.csproj": {}
+    "C:\\Users\\Ganesh\\Desktop\\DockerSample\\Dockersampleconfig.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ganesh\\Desktop\\DockerSample\\Dockersample.csproj": {
+    "C:\\Users\\Ganesh\\Desktop\\DockerSample\\Dockersampleconfig.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ganesh\\Desktop\\DockerSample\\Dockersample.csproj",
-        "projectName": "Dockersample",
-        "projectPath": "C:\\Users\\Ganesh\\Desktop\\DockerSample\\Dockersample.csproj",
+        "projectUniqueName": "C:\\Users\\Ganesh\\Desktop\\DockerSample\\Dockersampleconfig.csproj",
+        "projectName": "Dockersampleconfig",
+        "projectPath": "C:\\Users\\Ganesh\\Desktop\\DockerSample\\Dockersampleconfig.csproj",
         "packagesPath": "C:\\Users\\Ganesh\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Ganesh\\Desktop\\DockerSample\\obj\\",
         "projectStyle": "PackageReference",

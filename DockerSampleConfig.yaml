@@ -1,16 +1,16 @@
 ﻿apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: dockersample-deployment
+  name: dockersampleconfig-deployment
 spec:
   replicas: 1
   selector:
     matchLabels:
-      app: DockerSample
+      app: Dockersampleconfig
   template:
     metadata:
       labels:
-        app: DockerSample
+        app: Dockersampleconfig
     spec:
       containers:
       - name: dockersamplerepos
@@ -24,10 +24,10 @@ spec:
 apiVersion: v1
 kind: Service
 metadata:
-  name: dockersample
+  name: dockersampleconfig
 spec:
   type: LoadBalancer
   ports:
   - port: 80
   selector:
-    app: DockerSample
+    app: Dockersampleconfig
